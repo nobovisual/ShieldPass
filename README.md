@@ -1,3 +1,5 @@
+![logo](images/ShieldPass.png)
+
 # 🛡️ ShieldPass
 **Votre mot de passe sécurisé en 1 clic.**
 
