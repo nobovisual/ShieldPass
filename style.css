@@ -1,8 +1,9 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Inter',sans-serif;
+    font-family: 'Inter', sans-serif;
     box-sizing: border-box;
+    
 }
 body {
     background: #011627;
@@ -60,7 +61,7 @@ body {
 }
 .container button:hover{
     background-color: #7fffd4;
-    box-shadow: 0 0 0 2px #fff
+    box-shadow: 0 0 0 2px #fff;
     color: #011627;
     transform: scale(0.95);
     transition: 0.2s ease-in-out;
