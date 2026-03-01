@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/ShieldPass.png" width="720" />
+<img src="images/ShieldPass.png" width="480" />
 </p>
 
 <div align="center">
